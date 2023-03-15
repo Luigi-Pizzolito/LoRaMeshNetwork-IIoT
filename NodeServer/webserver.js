@@ -23,6 +23,7 @@ class StaticWebServer {
     serverStarted() {
         console.log(`Web Server listening on http://${this.host}:${this.port}`);
     }
+    //todo: add method to log server requests
 }
 
 module.exports = {

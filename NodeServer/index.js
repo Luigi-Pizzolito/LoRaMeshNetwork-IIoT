@@ -3,6 +3,7 @@ const sws = require('./webserver.js');
 let StaticWebServer = sws.StaticWebServer;
 const wss = require('./websocket.js');
 let WebSocketServer = wss.WebSocketServer;
+//todo: add a logging module for better log output and logging levels.
 
 // Start website server
 let siteServer = new StaticWebServer("localhost", 8000, "public");
@@ -15,6 +16,6 @@ function testEchoOnMessage(wsServer, msg) {
     // send the same message back to all clients
     wsServer.sendUnicastMsg(msg.toString());
 }
-// start server
+// Start Websocket server
 let websockServer = new WebSocketServer("localhost", 9876, testEchoOnMessage);
 websockServer.start();

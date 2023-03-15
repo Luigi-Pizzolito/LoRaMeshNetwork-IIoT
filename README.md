@@ -1,7 +1,7 @@
 # LoRaMeshNetwork-IIoT
  An IIoT system using mesh networking and LoRa.
 
- ---
+---
 
 ### Installation and Running Server Code
 1. Clone this repository by running `git clone https://github.com/Luigi-Pizzolito/LoRaMeshNetwork-IIoT.git`.

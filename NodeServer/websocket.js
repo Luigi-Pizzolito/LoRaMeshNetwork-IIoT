@@ -66,6 +66,9 @@ class WebSocketServer {
         });
         console.log("[unicast:"+this.wsServer.clients.size.toString()+"] SEND Message:", msg);
     }
+    replyMsg(msg) {
+        // implement method here to send a message to a specific client, the same one that sent the request (and only that one)
+    }
 }
 
 module.exports = {
