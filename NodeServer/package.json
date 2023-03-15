@@ -1,0 +1,31 @@
+{
+  "name": "lora-mesh-iiot-node-server",
+  "version": "1.0.0",
+  "description": "Server-side code for collecting sensor node data and visualising through WPA.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Luigi-Pizzolito/LoraMeshNetwork-IIoT.git"
+  },
+  "keywords": [
+    "LoRa",
+    "IIoT",
+    "mesh",
+    "networking"
+  ],
+  "author": "Luigi Pizzolito",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Luigi-Pizzolito/LoraMeshNetwork-IIoT/issues"
+  },
+  "homepage": "https://github.com/Luigi-Pizzolito/LoraMeshNetwork-IIoT#readme",
+  "dependencies": {
+    "express": "^4.18.2",
+    "websockets": "^0.2.0",
+    "ws": "^8.13.0"
+  }
+}

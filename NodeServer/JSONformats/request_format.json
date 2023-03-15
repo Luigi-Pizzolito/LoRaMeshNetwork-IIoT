@@ -1,0 +1,12 @@
+{
+  "query_type": "type",
+  "time_range": [
+    "start_time",
+    "end_time"
+  ],
+  "sensors": [
+    "id1",
+    "id2",
+    "all"
+  ]
+}

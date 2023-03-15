@@ -1,0 +1,12 @@
+{
+  "sensor_id": "some_id",
+  "sensor_types": [
+    "temp",
+    "humidity"
+  ],
+  "sensor_data": [
+    25.7,
+    68
+  ],
+  "ts": "HH:MM:SS DD/MM/YYYY"
+}
