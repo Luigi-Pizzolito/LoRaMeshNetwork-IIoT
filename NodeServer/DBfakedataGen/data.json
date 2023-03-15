@@ -1,0 +1,1687 @@
+{
+    "2023-03-08 11:10:45": {
+        "temperature": 20.36,
+        "humidity": 41.36,
+        "soil_moisture": 40.2
+    },
+    "2023-03-08 11:40:45": {
+        "temperature": 25.96,
+        "humidity": 45.75,
+        "soil_moisture": 32.51
+    },
+    "2023-03-08 12:10:45": {
+        "temperature": 25.86,
+        "humidity": 56.93,
+        "soil_moisture": 51.77
+    },
+    "2023-03-08 12:40:45": {
+        "temperature": 23.2,
+        "humidity": 49.2,
+        "soil_moisture": 45.98
+    },
+    "2023-03-08 13:10:45": {
+        "temperature": 17.11,
+        "humidity": 74.18,
+        "soil_moisture": 37.07
+    },
+    "2023-03-08 13:40:45": {
+        "temperature": 15.33,
+        "humidity": 67.73,
+        "soil_moisture": 53.25
+    },
+    "2023-03-08 14:10:45": {
+        "temperature": 26.49,
+        "humidity": 66.78,
+        "soil_moisture": 24.18
+    },
+    "2023-03-08 14:40:45": {
+        "temperature": 19.58,
+        "humidity": 57.24,
+        "soil_moisture": 39.64
+    },
+    "2023-03-08 15:10:45": {
+        "temperature": 21.73,
+        "humidity": 65.42,
+        "soil_moisture": 49.76
+    },
+    "2023-03-08 15:40:45": {
+        "temperature": 28.54,
+        "humidity": 62.71,
+        "soil_moisture": 51.57
+    },
+    "2023-03-08 16:10:45": {
+        "temperature": 15.52,
+        "humidity": 56.13,
+        "soil_moisture": 36.14
+    },
+    "2023-03-08 16:40:45": {
+        "temperature": 20.35,
+        "humidity": 68.08,
+        "soil_moisture": 37.22
+    },
+    "2023-03-08 17:10:45": {
+        "temperature": 22.5,
+        "humidity": 72.82,
+        "soil_moisture": 44.4
+    },
+    "2023-03-08 17:40:45": {
+        "temperature": 22.06,
+        "humidity": 48.56,
+        "soil_moisture": 33.55
+    },
+    "2023-03-08 18:10:45": {
+        "temperature": 21.07,
+        "humidity": 60.22,
+        "soil_moisture": 54.89
+    },
+    "2023-03-08 18:40:45": {
+        "temperature": 28.71,
+        "humidity": 66.19,
+        "soil_moisture": 54.68
+    },
+    "2023-03-08 19:10:45": {
+        "temperature": 27.32,
+        "humidity": 68.0,
+        "soil_moisture": 48.92
+    },
+    "2023-03-08 19:40:45": {
+        "temperature": 24.4,
+        "humidity": 57.75,
+        "soil_moisture": 55.31
+    },
+    "2023-03-08 20:10:45": {
+        "temperature": 23.28,
+        "humidity": 69.07,
+        "soil_moisture": 26.25
+    },
+    "2023-03-08 20:40:45": {
+        "temperature": 26.12,
+        "humidity": 78.0,
+        "soil_moisture": 39.39
+    },
+    "2023-03-08 21:10:45": {
+        "temperature": 24.08,
+        "humidity": 45.27,
+        "soil_moisture": 35.48
+    },
+    "2023-03-08 21:40:45": {
+        "temperature": 29.0,
+        "humidity": 40.34,
+        "soil_moisture": 23.11
+    },
+    "2023-03-08 22:10:45": {
+        "temperature": 25.86,
+        "humidity": 59.17,
+        "soil_moisture": 50.82
+    },
+    "2023-03-08 22:40:45": {
+        "temperature": 29.9,
+        "humidity": 71.34,
+        "soil_moisture": 23.56
+    },
+    "2023-03-08 23:10:45": {
+        "temperature": 27.68,
+        "humidity": 68.39,
+        "soil_moisture": 23.05
+    },
+    "2023-03-08 23:40:45": {
+        "temperature": 19.21,
+        "humidity": 77.51,
+        "soil_moisture": 49.18
+    },
+    "2023-03-09 00:10:45": {
+        "temperature": 27.55,
+        "humidity": 72.1,
+        "soil_moisture": 34.31
+    },
+    "2023-03-09 00:40:45": {
+        "temperature": 28.57,
+        "humidity": 74.53,
+        "soil_moisture": 20.2
+    },
+    "2023-03-09 01:10:45": {
+        "temperature": 24.68,
+        "humidity": 55.96,
+        "soil_moisture": 33.78
+    },
+    "2023-03-09 01:40:45": {
+        "temperature": 25.3,
+        "humidity": 49.01,
+        "soil_moisture": 38.33
+    },
+    "2023-03-09 02:10:45": {
+        "temperature": 19.39,
+        "humidity": 61.52,
+        "soil_moisture": 58.29
+    },
+    "2023-03-09 02:40:45": {
+        "temperature": 27.56,
+        "humidity": 62.05,
+        "soil_moisture": 23.13
+    },
+    "2023-03-09 03:10:45": {
+        "temperature": 23.63,
+        "humidity": 48.19,
+        "soil_moisture": 54.91
+    },
+    "2023-03-09 03:40:45": {
+        "temperature": 22.02,
+        "humidity": 60.47,
+        "soil_moisture": 58.6
+    },
+    "2023-03-09 04:10:45": {
+        "temperature": 24.59,
+        "humidity": 75.17,
+        "soil_moisture": 58.26
+    },
+    "2023-03-09 04:40:45": {
+        "temperature": 17.86,
+        "humidity": 68.85,
+        "soil_moisture": 55.43
+    },
+    "2023-03-09 05:10:45": {
+        "temperature": 21.78,
+        "humidity": 42.73,
+        "soil_moisture": 28.63
+    },
+    "2023-03-09 05:40:45": {
+        "temperature": 15.7,
+        "humidity": 76.57,
+        "soil_moisture": 52.71
+    },
+    "2023-03-09 06:10:45": {
+        "temperature": 15.84,
+        "humidity": 66.79,
+        "soil_moisture": 42.16
+    },
+    "2023-03-09 06:40:45": {
+        "temperature": 23.32,
+        "humidity": 71.27,
+        "soil_moisture": 58.37
+    },
+    "2023-03-09 07:10:45": {
+        "temperature": 26.75,
+        "humidity": 61.8,
+        "soil_moisture": 23.4
+    },
+    "2023-03-09 07:40:45": {
+        "temperature": 27.83,
+        "humidity": 49.71,
+        "soil_moisture": 24.93
+    },
+    "2023-03-09 08:10:45": {
+        "temperature": 27.22,
+        "humidity": 66.57,
+        "soil_moisture": 43.69
+    },
+    "2023-03-09 08:40:45": {
+        "temperature": 17.66,
+        "humidity": 49.17,
+        "soil_moisture": 34.11
+    },
+    "2023-03-09 09:10:45": {
+        "temperature": 24.52,
+        "humidity": 53.7,
+        "soil_moisture": 44.68
+    },
+    "2023-03-09 09:40:45": {
+        "temperature": 17.01,
+        "humidity": 54.7,
+        "soil_moisture": 32.44
+    },
+    "2023-03-09 10:10:45": {
+        "temperature": 18.03,
+        "humidity": 40.53,
+        "soil_moisture": 55.81
+    },
+    "2023-03-09 10:40:45": {
+        "temperature": 28.31,
+        "humidity": 55.79,
+        "soil_moisture": 20.65
+    },
+    "2023-03-09 11:10:45": {
+        "temperature": 15.31,
+        "humidity": 77.32,
+        "soil_moisture": 26.85
+    },
+    "2023-03-09 11:40:45": {
+        "temperature": 21.92,
+        "humidity": 64.73,
+        "soil_moisture": 32.94
+    },
+    "2023-03-09 12:10:45": {
+        "temperature": 19.03,
+        "humidity": 59.5,
+        "soil_moisture": 45.11
+    },
+    "2023-03-09 12:40:45": {
+        "temperature": 27.56,
+        "humidity": 65.56,
+        "soil_moisture": 37.55
+    },
+    "2023-03-09 13:10:45": {
+        "temperature": 24.49,
+        "humidity": 68.71,
+        "soil_moisture": 49.66
+    },
+    "2023-03-09 13:40:45": {
+        "temperature": 21.91,
+        "humidity": 79.54,
+        "soil_moisture": 49.11
+    },
+    "2023-03-09 14:10:45": {
+        "temperature": 16.82,
+        "humidity": 64.02,
+        "soil_moisture": 37.39
+    },
+    "2023-03-09 14:40:45": {
+        "temperature": 20.49,
+        "humidity": 50.99,
+        "soil_moisture": 53.37
+    },
+    "2023-03-09 15:10:45": {
+        "temperature": 25.98,
+        "humidity": 56.37,
+        "soil_moisture": 57.75
+    },
+    "2023-03-09 15:40:45": {
+        "temperature": 22.72,
+        "humidity": 55.53,
+        "soil_moisture": 24.58
+    },
+    "2023-03-09 16:10:45": {
+        "temperature": 20.6,
+        "humidity": 41.21,
+        "soil_moisture": 28.61
+    },
+    "2023-03-09 16:40:45": {
+        "temperature": 22.03,
+        "humidity": 77.43,
+        "soil_moisture": 41.59
+    },
+    "2023-03-09 17:10:45": {
+        "temperature": 26.41,
+        "humidity": 67.77,
+        "soil_moisture": 59.03
+    },
+    "2023-03-09 17:40:45": {
+        "temperature": 15.75,
+        "humidity": 71.29,
+        "soil_moisture": 52.64
+    },
+    "2023-03-09 18:10:45": {
+        "temperature": 15.39,
+        "humidity": 50.73,
+        "soil_moisture": 40.63
+    },
+    "2023-03-09 18:40:45": {
+        "temperature": 23.05,
+        "humidity": 59.64,
+        "soil_moisture": 37.0
+    },
+    "2023-03-09 19:10:45": {
+        "temperature": 28.04,
+        "humidity": 76.42,
+        "soil_moisture": 25.84
+    },
+    "2023-03-09 19:40:45": {
+        "temperature": 27.91,
+        "humidity": 72.9,
+        "soil_moisture": 21.04
+    },
+    "2023-03-09 20:10:45": {
+        "temperature": 18.3,
+        "humidity": 55.26,
+        "soil_moisture": 30.41
+    },
+    "2023-03-09 20:40:45": {
+        "temperature": 18.51,
+        "humidity": 46.96,
+        "soil_moisture": 53.1
+    },
+    "2023-03-09 21:10:45": {
+        "temperature": 20.46,
+        "humidity": 67.24,
+        "soil_moisture": 46.76
+    },
+    "2023-03-09 21:40:45": {
+        "temperature": 15.35,
+        "humidity": 60.71,
+        "soil_moisture": 36.82
+    },
+    "2023-03-09 22:10:45": {
+        "temperature": 27.02,
+        "humidity": 40.69,
+        "soil_moisture": 34.64
+    },
+    "2023-03-09 22:40:45": {
+        "temperature": 26.69,
+        "humidity": 74.72,
+        "soil_moisture": 58.37
+    },
+    "2023-03-09 23:10:45": {
+        "temperature": 16.31,
+        "humidity": 70.4,
+        "soil_moisture": 49.78
+    },
+    "2023-03-09 23:40:45": {
+        "temperature": 15.99,
+        "humidity": 54.44,
+        "soil_moisture": 50.65
+    },
+    "2023-03-10 00:10:45": {
+        "temperature": 25.93,
+        "humidity": 50.49,
+        "soil_moisture": 57.26
+    },
+    "2023-03-10 00:40:45": {
+        "temperature": 28.2,
+        "humidity": 65.88,
+        "soil_moisture": 26.72
+    },
+    "2023-03-10 01:10:45": {
+        "temperature": 24.44,
+        "humidity": 69.35,
+        "soil_moisture": 37.02
+    },
+    "2023-03-10 01:40:45": {
+        "temperature": 29.89,
+        "humidity": 48.74,
+        "soil_moisture": 42.82
+    },
+    "2023-03-10 02:10:45": {
+        "temperature": 15.0,
+        "humidity": 70.56,
+        "soil_moisture": 38.31
+    },
+    "2023-03-10 02:40:45": {
+        "temperature": 26.63,
+        "humidity": 75.15,
+        "soil_moisture": 34.69
+    },
+    "2023-03-10 03:10:45": {
+        "temperature": 19.57,
+        "humidity": 65.1,
+        "soil_moisture": 53.63
+    },
+    "2023-03-10 03:40:45": {
+        "temperature": 17.29,
+        "humidity": 73.55,
+        "soil_moisture": 46.77
+    },
+    "2023-03-10 04:10:45": {
+        "temperature": 19.06,
+        "humidity": 61.68,
+        "soil_moisture": 24.87
+    },
+    "2023-03-10 04:40:45": {
+        "temperature": 28.04,
+        "humidity": 76.26,
+        "soil_moisture": 37.46
+    },
+    "2023-03-10 05:10:45": {
+        "temperature": 22.2,
+        "humidity": 56.47,
+        "soil_moisture": 46.74
+    },
+    "2023-03-10 05:40:45": {
+        "temperature": 27.47,
+        "humidity": 65.46,
+        "soil_moisture": 39.48
+    },
+    "2023-03-10 06:10:45": {
+        "temperature": 17.83,
+        "humidity": 49.33,
+        "soil_moisture": 21.93
+    },
+    "2023-03-10 06:40:45": {
+        "temperature": 18.5,
+        "humidity": 64.34,
+        "soil_moisture": 41.16
+    },
+    "2023-03-10 07:10:45": {
+        "temperature": 24.81,
+        "humidity": 70.99,
+        "soil_moisture": 45.8
+    },
+    "2023-03-10 07:40:45": {
+        "temperature": 17.65,
+        "humidity": 77.05,
+        "soil_moisture": 31.43
+    },
+    "2023-03-10 08:10:45": {
+        "temperature": 26.52,
+        "humidity": 43.77,
+        "soil_moisture": 53.18
+    },
+    "2023-03-10 08:40:45": {
+        "temperature": 24.02,
+        "humidity": 79.75,
+        "soil_moisture": 54.53
+    },
+    "2023-03-10 09:10:45": {
+        "temperature": 22.16,
+        "humidity": 68.63,
+        "soil_moisture": 48.05
+    },
+    "2023-03-10 09:40:45": {
+        "temperature": 24.47,
+        "humidity": 64.14,
+        "soil_moisture": 56.98
+    },
+    "2023-03-10 10:10:45": {
+        "temperature": 28.95,
+        "humidity": 57.8,
+        "soil_moisture": 22.24
+    },
+    "2023-03-10 10:40:45": {
+        "temperature": 19.51,
+        "humidity": 58.51,
+        "soil_moisture": 26.01
+    },
+    "2023-03-10 11:10:45": {
+        "temperature": 27.28,
+        "humidity": 68.32,
+        "soil_moisture": 25.94
+    },
+    "2023-03-10 11:40:45": {
+        "temperature": 20.63,
+        "humidity": 62.45,
+        "soil_moisture": 40.66
+    },
+    "2023-03-10 12:10:45": {
+        "temperature": 17.56,
+        "humidity": 42.6,
+        "soil_moisture": 41.27
+    },
+    "2023-03-10 12:40:45": {
+        "temperature": 20.09,
+        "humidity": 61.35,
+        "soil_moisture": 45.14
+    },
+    "2023-03-10 13:10:45": {
+        "temperature": 20.61,
+        "humidity": 75.52,
+        "soil_moisture": 34.87
+    },
+    "2023-03-10 13:40:45": {
+        "temperature": 18.1,
+        "humidity": 47.99,
+        "soil_moisture": 34.43
+    },
+    "2023-03-10 14:10:45": {
+        "temperature": 26.92,
+        "humidity": 61.23,
+        "soil_moisture": 58.17
+    },
+    "2023-03-10 14:40:45": {
+        "temperature": 16.77,
+        "humidity": 51.07,
+        "soil_moisture": 26.06
+    },
+    "2023-03-10 15:10:45": {
+        "temperature": 29.85,
+        "humidity": 65.03,
+        "soil_moisture": 47.28
+    },
+    "2023-03-10 15:40:45": {
+        "temperature": 20.41,
+        "humidity": 79.04,
+        "soil_moisture": 21.67
+    },
+    "2023-03-10 16:10:45": {
+        "temperature": 15.58,
+        "humidity": 67.48,
+        "soil_moisture": 48.93
+    },
+    "2023-03-10 16:40:45": {
+        "temperature": 29.18,
+        "humidity": 49.38,
+        "soil_moisture": 53.98
+    },
+    "2023-03-10 17:10:45": {
+        "temperature": 19.53,
+        "humidity": 72.74,
+        "soil_moisture": 25.62
+    },
+    "2023-03-10 17:40:45": {
+        "temperature": 21.28,
+        "humidity": 60.33,
+        "soil_moisture": 30.84
+    },
+    "2023-03-10 18:10:45": {
+        "temperature": 18.47,
+        "humidity": 79.24,
+        "soil_moisture": 20.6
+    },
+    "2023-03-10 18:40:45": {
+        "temperature": 17.25,
+        "humidity": 55.74,
+        "soil_moisture": 58.15
+    },
+    "2023-03-10 19:10:45": {
+        "temperature": 19.1,
+        "humidity": 67.79,
+        "soil_moisture": 26.35
+    },
+    "2023-03-10 19:40:45": {
+        "temperature": 16.75,
+        "humidity": 60.88,
+        "soil_moisture": 36.86
+    },
+    "2023-03-10 20:10:45": {
+        "temperature": 28.61,
+        "humidity": 51.58,
+        "soil_moisture": 22.77
+    },
+    "2023-03-10 20:40:45": {
+        "temperature": 27.27,
+        "humidity": 70.01,
+        "soil_moisture": 43.43
+    },
+    "2023-03-10 21:10:45": {
+        "temperature": 16.36,
+        "humidity": 54.59,
+        "soil_moisture": 46.89
+    },
+    "2023-03-10 21:40:45": {
+        "temperature": 16.8,
+        "humidity": 44.59,
+        "soil_moisture": 36.85
+    },
+    "2023-03-10 22:10:45": {
+        "temperature": 23.12,
+        "humidity": 43.81,
+        "soil_moisture": 57.26
+    },
+    "2023-03-10 22:40:45": {
+        "temperature": 24.12,
+        "humidity": 79.52,
+        "soil_moisture": 37.09
+    },
+    "2023-03-10 23:10:45": {
+        "temperature": 16.54,
+        "humidity": 46.88,
+        "soil_moisture": 37.2
+    },
+    "2023-03-10 23:40:45": {
+        "temperature": 18.39,
+        "humidity": 58.16,
+        "soil_moisture": 27.86
+    },
+    "2023-03-11 00:10:45": {
+        "temperature": 16.82,
+        "humidity": 60.85,
+        "soil_moisture": 58.75
+    },
+    "2023-03-11 00:40:45": {
+        "temperature": 26.42,
+        "humidity": 49.91,
+        "soil_moisture": 30.72
+    },
+    "2023-03-11 01:10:45": {
+        "temperature": 23.98,
+        "humidity": 66.18,
+        "soil_moisture": 20.91
+    },
+    "2023-03-11 01:40:45": {
+        "temperature": 23.53,
+        "humidity": 54.43,
+        "soil_moisture": 57.76
+    },
+    "2023-03-11 02:10:45": {
+        "temperature": 18.04,
+        "humidity": 58.43,
+        "soil_moisture": 31.78
+    },
+    "2023-03-11 02:40:45": {
+        "temperature": 23.17,
+        "humidity": 69.72,
+        "soil_moisture": 57.52
+    },
+    "2023-03-11 03:10:45": {
+        "temperature": 19.91,
+        "humidity": 69.97,
+        "soil_moisture": 44.25
+    },
+    "2023-03-11 03:40:45": {
+        "temperature": 28.87,
+        "humidity": 47.31,
+        "soil_moisture": 50.17
+    },
+    "2023-03-11 04:10:45": {
+        "temperature": 16.19,
+        "humidity": 47.66,
+        "soil_moisture": 20.76
+    },
+    "2023-03-11 04:40:45": {
+        "temperature": 15.49,
+        "humidity": 40.76,
+        "soil_moisture": 50.97
+    },
+    "2023-03-11 05:10:45": {
+        "temperature": 28.71,
+        "humidity": 48.79,
+        "soil_moisture": 53.94
+    },
+    "2023-03-11 05:40:45": {
+        "temperature": 26.49,
+        "humidity": 74.62,
+        "soil_moisture": 49.1
+    },
+    "2023-03-11 06:10:45": {
+        "temperature": 24.23,
+        "humidity": 71.09,
+        "soil_moisture": 50.92
+    },
+    "2023-03-11 06:40:45": {
+        "temperature": 17.41,
+        "humidity": 64.38,
+        "soil_moisture": 32.36
+    },
+    "2023-03-11 07:10:45": {
+        "temperature": 23.81,
+        "humidity": 54.47,
+        "soil_moisture": 20.28
+    },
+    "2023-03-11 07:40:45": {
+        "temperature": 29.78,
+        "humidity": 45.87,
+        "soil_moisture": 39.58
+    },
+    "2023-03-11 08:10:45": {
+        "temperature": 18.1,
+        "humidity": 78.94,
+        "soil_moisture": 25.64
+    },
+    "2023-03-11 08:40:45": {
+        "temperature": 15.61,
+        "humidity": 64.49,
+        "soil_moisture": 40.81
+    },
+    "2023-03-11 09:10:45": {
+        "temperature": 27.51,
+        "humidity": 73.28,
+        "soil_moisture": 38.83
+    },
+    "2023-03-11 09:40:45": {
+        "temperature": 28.18,
+        "humidity": 41.28,
+        "soil_moisture": 40.5
+    },
+    "2023-03-11 10:10:45": {
+        "temperature": 20.89,
+        "humidity": 73.36,
+        "soil_moisture": 24.55
+    },
+    "2023-03-11 10:40:45": {
+        "temperature": 16.15,
+        "humidity": 76.61,
+        "soil_moisture": 47.97
+    },
+    "2023-03-11 11:10:45": {
+        "temperature": 29.95,
+        "humidity": 58.46,
+        "soil_moisture": 22.16
+    },
+    "2023-03-11 11:40:45": {
+        "temperature": 15.1,
+        "humidity": 69.67,
+        "soil_moisture": 45.35
+    },
+    "2023-03-11 12:10:45": {
+        "temperature": 16.08,
+        "humidity": 50.72,
+        "soil_moisture": 24.26
+    },
+    "2023-03-11 12:40:45": {
+        "temperature": 19.48,
+        "humidity": 76.62,
+        "soil_moisture": 50.1
+    },
+    "2023-03-11 13:10:45": {
+        "temperature": 29.19,
+        "humidity": 64.78,
+        "soil_moisture": 46.27
+    },
+    "2023-03-11 13:40:45": {
+        "temperature": 17.53,
+        "humidity": 50.01,
+        "soil_moisture": 56.99
+    },
+    "2023-03-11 14:10:45": {
+        "temperature": 24.43,
+        "humidity": 76.52,
+        "soil_moisture": 46.21
+    },
+    "2023-03-11 14:40:45": {
+        "temperature": 16.55,
+        "humidity": 62.41,
+        "soil_moisture": 43.03
+    },
+    "2023-03-11 15:10:45": {
+        "temperature": 16.53,
+        "humidity": 67.1,
+        "soil_moisture": 20.23
+    },
+    "2023-03-11 15:40:45": {
+        "temperature": 24.68,
+        "humidity": 45.45,
+        "soil_moisture": 32.52
+    },
+    "2023-03-11 16:10:45": {
+        "temperature": 20.27,
+        "humidity": 48.8,
+        "soil_moisture": 58.92
+    },
+    "2023-03-11 16:40:45": {
+        "temperature": 28.4,
+        "humidity": 79.69,
+        "soil_moisture": 43.35
+    },
+    "2023-03-11 17:10:45": {
+        "temperature": 21.92,
+        "humidity": 69.92,
+        "soil_moisture": 30.6
+    },
+    "2023-03-11 17:40:45": {
+        "temperature": 29.72,
+        "humidity": 58.39,
+        "soil_moisture": 34.02
+    },
+    "2023-03-11 18:10:45": {
+        "temperature": 28.97,
+        "humidity": 43.63,
+        "soil_moisture": 45.16
+    },
+    "2023-03-11 18:40:45": {
+        "temperature": 26.09,
+        "humidity": 72.95,
+        "soil_moisture": 42.97
+    },
+    "2023-03-11 19:10:45": {
+        "temperature": 16.71,
+        "humidity": 60.0,
+        "soil_moisture": 49.35
+    },
+    "2023-03-11 19:40:45": {
+        "temperature": 18.21,
+        "humidity": 51.62,
+        "soil_moisture": 58.1
+    },
+    "2023-03-11 20:10:45": {
+        "temperature": 27.92,
+        "humidity": 50.63,
+        "soil_moisture": 32.02
+    },
+    "2023-03-11 20:40:45": {
+        "temperature": 29.05,
+        "humidity": 72.55,
+        "soil_moisture": 46.08
+    },
+    "2023-03-11 21:10:45": {
+        "temperature": 23.28,
+        "humidity": 42.89,
+        "soil_moisture": 38.45
+    },
+    "2023-03-11 21:40:45": {
+        "temperature": 24.78,
+        "humidity": 59.84,
+        "soil_moisture": 20.33
+    },
+    "2023-03-11 22:10:45": {
+        "temperature": 16.29,
+        "humidity": 58.36,
+        "soil_moisture": 21.2
+    },
+    "2023-03-11 22:40:45": {
+        "temperature": 26.71,
+        "humidity": 54.85,
+        "soil_moisture": 58.45
+    },
+    "2023-03-11 23:10:45": {
+        "temperature": 20.65,
+        "humidity": 57.63,
+        "soil_moisture": 55.37
+    },
+    "2023-03-11 23:40:45": {
+        "temperature": 21.5,
+        "humidity": 73.58,
+        "soil_moisture": 27.93
+    },
+    "2023-03-12 00:10:45": {
+        "temperature": 26.94,
+        "humidity": 57.31,
+        "soil_moisture": 32.82
+    },
+    "2023-03-12 00:40:45": {
+        "temperature": 16.71,
+        "humidity": 57.96,
+        "soil_moisture": 46.06
+    },
+    "2023-03-12 01:10:45": {
+        "temperature": 29.56,
+        "humidity": 48.47,
+        "soil_moisture": 25.98
+    },
+    "2023-03-12 01:40:45": {
+        "temperature": 28.55,
+        "humidity": 54.89,
+        "soil_moisture": 58.78
+    },
+    "2023-03-12 02:10:45": {
+        "temperature": 23.27,
+        "humidity": 68.82,
+        "soil_moisture": 22.4
+    },
+    "2023-03-12 02:40:45": {
+        "temperature": 17.21,
+        "humidity": 78.92,
+        "soil_moisture": 55.62
+    },
+    "2023-03-12 03:10:45": {
+        "temperature": 18.46,
+        "humidity": 54.54,
+        "soil_moisture": 58.38
+    },
+    "2023-03-12 03:40:45": {
+        "temperature": 19.97,
+        "humidity": 64.77,
+        "soil_moisture": 24.49
+    },
+    "2023-03-12 04:10:45": {
+        "temperature": 23.35,
+        "humidity": 49.35,
+        "soil_moisture": 59.27
+    },
+    "2023-03-12 04:40:45": {
+        "temperature": 24.22,
+        "humidity": 55.35,
+        "soil_moisture": 54.13
+    },
+    "2023-03-12 05:10:45": {
+        "temperature": 25.88,
+        "humidity": 40.29,
+        "soil_moisture": 26.18
+    },
+    "2023-03-12 05:40:45": {
+        "temperature": 26.52,
+        "humidity": 59.92,
+        "soil_moisture": 33.24
+    },
+    "2023-03-12 06:10:45": {
+        "temperature": 25.41,
+        "humidity": 46.08,
+        "soil_moisture": 21.37
+    },
+    "2023-03-12 06:40:45": {
+        "temperature": 22.14,
+        "humidity": 49.33,
+        "soil_moisture": 50.35
+    },
+    "2023-03-12 07:10:45": {
+        "temperature": 24.91,
+        "humidity": 55.8,
+        "soil_moisture": 58.06
+    },
+    "2023-03-12 07:40:45": {
+        "temperature": 26.8,
+        "humidity": 51.92,
+        "soil_moisture": 45.53
+    },
+    "2023-03-12 08:10:45": {
+        "temperature": 29.65,
+        "humidity": 53.22,
+        "soil_moisture": 29.89
+    },
+    "2023-03-12 08:40:45": {
+        "temperature": 16.07,
+        "humidity": 43.6,
+        "soil_moisture": 39.72
+    },
+    "2023-03-12 09:10:45": {
+        "temperature": 28.99,
+        "humidity": 57.68,
+        "soil_moisture": 25.44
+    },
+    "2023-03-12 09:40:45": {
+        "temperature": 26.81,
+        "humidity": 74.49,
+        "soil_moisture": 43.54
+    },
+    "2023-03-12 10:10:45": {
+        "temperature": 16.36,
+        "humidity": 59.71,
+        "soil_moisture": 51.92
+    },
+    "2023-03-12 10:40:45": {
+        "temperature": 24.29,
+        "humidity": 58.28,
+        "soil_moisture": 23.78
+    },
+    "2023-03-12 11:10:45": {
+        "temperature": 29.05,
+        "humidity": 63.1,
+        "soil_moisture": 30.6
+    },
+    "2023-03-12 11:40:45": {
+        "temperature": 27.83,
+        "humidity": 74.85,
+        "soil_moisture": 58.16
+    },
+    "2023-03-12 12:10:45": {
+        "temperature": 21.72,
+        "humidity": 76.07,
+        "soil_moisture": 52.02
+    },
+    "2023-03-12 12:40:45": {
+        "temperature": 23.29,
+        "humidity": 44.73,
+        "soil_moisture": 26.6
+    },
+    "2023-03-12 13:10:45": {
+        "temperature": 28.17,
+        "humidity": 62.7,
+        "soil_moisture": 27.87
+    },
+    "2023-03-12 13:40:45": {
+        "temperature": 25.42,
+        "humidity": 56.26,
+        "soil_moisture": 41.6
+    },
+    "2023-03-12 14:10:45": {
+        "temperature": 19.35,
+        "humidity": 54.34,
+        "soil_moisture": 49.19
+    },
+    "2023-03-12 14:40:45": {
+        "temperature": 23.69,
+        "humidity": 58.64,
+        "soil_moisture": 42.4
+    },
+    "2023-03-12 15:10:45": {
+        "temperature": 16.32,
+        "humidity": 54.35,
+        "soil_moisture": 46.45
+    },
+    "2023-03-12 15:40:45": {
+        "temperature": 28.87,
+        "humidity": 71.85,
+        "soil_moisture": 23.46
+    },
+    "2023-03-12 16:10:45": {
+        "temperature": 26.21,
+        "humidity": 55.76,
+        "soil_moisture": 38.92
+    },
+    "2023-03-12 16:40:45": {
+        "temperature": 27.58,
+        "humidity": 64.68,
+        "soil_moisture": 43.43
+    },
+    "2023-03-12 17:10:45": {
+        "temperature": 18.65,
+        "humidity": 69.99,
+        "soil_moisture": 48.6
+    },
+    "2023-03-12 17:40:45": {
+        "temperature": 26.7,
+        "humidity": 66.28,
+        "soil_moisture": 23.03
+    },
+    "2023-03-12 18:10:45": {
+        "temperature": 20.37,
+        "humidity": 69.14,
+        "soil_moisture": 23.22
+    },
+    "2023-03-12 18:40:45": {
+        "temperature": 23.04,
+        "humidity": 48.34,
+        "soil_moisture": 28.14
+    },
+    "2023-03-12 19:10:45": {
+        "temperature": 16.56,
+        "humidity": 45.16,
+        "soil_moisture": 57.53
+    },
+    "2023-03-12 19:40:45": {
+        "temperature": 29.78,
+        "humidity": 75.95,
+        "soil_moisture": 23.03
+    },
+    "2023-03-12 20:10:45": {
+        "temperature": 27.86,
+        "humidity": 64.31,
+        "soil_moisture": 41.85
+    },
+    "2023-03-12 20:40:45": {
+        "temperature": 21.28,
+        "humidity": 62.66,
+        "soil_moisture": 35.7
+    },
+    "2023-03-12 21:10:45": {
+        "temperature": 27.43,
+        "humidity": 73.44,
+        "soil_moisture": 35.15
+    },
+    "2023-03-12 21:40:45": {
+        "temperature": 19.07,
+        "humidity": 44.15,
+        "soil_moisture": 49.49
+    },
+    "2023-03-12 22:10:45": {
+        "temperature": 19.48,
+        "humidity": 79.2,
+        "soil_moisture": 21.42
+    },
+    "2023-03-12 22:40:45": {
+        "temperature": 26.24,
+        "humidity": 49.62,
+        "soil_moisture": 23.26
+    },
+    "2023-03-12 23:10:45": {
+        "temperature": 25.62,
+        "humidity": 75.49,
+        "soil_moisture": 52.82
+    },
+    "2023-03-12 23:40:45": {
+        "temperature": 21.52,
+        "humidity": 74.77,
+        "soil_moisture": 39.34
+    },
+    "2023-03-13 00:10:45": {
+        "temperature": 24.75,
+        "humidity": 43.87,
+        "soil_moisture": 21.38
+    },
+    "2023-03-13 00:40:45": {
+        "temperature": 22.86,
+        "humidity": 46.92,
+        "soil_moisture": 26.74
+    },
+    "2023-03-13 01:10:45": {
+        "temperature": 15.72,
+        "humidity": 43.07,
+        "soil_moisture": 42.82
+    },
+    "2023-03-13 01:40:45": {
+        "temperature": 22.37,
+        "humidity": 45.23,
+        "soil_moisture": 20.04
+    },
+    "2023-03-13 02:10:45": {
+        "temperature": 18.52,
+        "humidity": 72.77,
+        "soil_moisture": 46.0
+    },
+    "2023-03-13 02:40:45": {
+        "temperature": 22.75,
+        "humidity": 50.31,
+        "soil_moisture": 55.32
+    },
+    "2023-03-13 03:10:45": {
+        "temperature": 17.3,
+        "humidity": 69.07,
+        "soil_moisture": 23.18
+    },
+    "2023-03-13 03:40:45": {
+        "temperature": 25.25,
+        "humidity": 40.65,
+        "soil_moisture": 43.92
+    },
+    "2023-03-13 04:10:45": {
+        "temperature": 27.46,
+        "humidity": 75.38,
+        "soil_moisture": 24.71
+    },
+    "2023-03-13 04:40:45": {
+        "temperature": 23.44,
+        "humidity": 44.74,
+        "soil_moisture": 30.61
+    },
+    "2023-03-13 05:10:45": {
+        "temperature": 18.38,
+        "humidity": 69.2,
+        "soil_moisture": 36.19
+    },
+    "2023-03-13 05:40:45": {
+        "temperature": 25.37,
+        "humidity": 42.22,
+        "soil_moisture": 55.46
+    },
+    "2023-03-13 06:10:45": {
+        "temperature": 18.44,
+        "humidity": 70.75,
+        "soil_moisture": 40.27
+    },
+    "2023-03-13 06:40:45": {
+        "temperature": 19.62,
+        "humidity": 51.39,
+        "soil_moisture": 55.75
+    },
+    "2023-03-13 07:10:45": {
+        "temperature": 24.64,
+        "humidity": 68.8,
+        "soil_moisture": 58.1
+    },
+    "2023-03-13 07:40:45": {
+        "temperature": 27.62,
+        "humidity": 55.7,
+        "soil_moisture": 47.99
+    },
+    "2023-03-13 08:10:45": {
+        "temperature": 17.69,
+        "humidity": 56.2,
+        "soil_moisture": 20.83
+    },
+    "2023-03-13 08:40:45": {
+        "temperature": 21.29,
+        "humidity": 42.97,
+        "soil_moisture": 34.95
+    },
+    "2023-03-13 09:10:45": {
+        "temperature": 25.99,
+        "humidity": 65.24,
+        "soil_moisture": 53.66
+    },
+    "2023-03-13 09:40:45": {
+        "temperature": 15.99,
+        "humidity": 47.53,
+        "soil_moisture": 35.91
+    },
+    "2023-03-13 10:10:45": {
+        "temperature": 19.65,
+        "humidity": 76.98,
+        "soil_moisture": 34.9
+    },
+    "2023-03-13 10:40:45": {
+        "temperature": 17.32,
+        "humidity": 44.37,
+        "soil_moisture": 27.86
+    },
+    "2023-03-13 11:10:45": {
+        "temperature": 17.65,
+        "humidity": 44.08,
+        "soil_moisture": 45.74
+    },
+    "2023-03-13 11:40:45": {
+        "temperature": 22.76,
+        "humidity": 79.29,
+        "soil_moisture": 37.26
+    },
+    "2023-03-13 12:10:45": {
+        "temperature": 25.47,
+        "humidity": 55.66,
+        "soil_moisture": 54.72
+    },
+    "2023-03-13 12:40:45": {
+        "temperature": 20.77,
+        "humidity": 72.62,
+        "soil_moisture": 46.68
+    },
+    "2023-03-13 13:10:45": {
+        "temperature": 25.49,
+        "humidity": 72.84,
+        "soil_moisture": 47.93
+    },
+    "2023-03-13 13:40:45": {
+        "temperature": 24.9,
+        "humidity": 77.21,
+        "soil_moisture": 38.23
+    },
+    "2023-03-13 14:10:45": {
+        "temperature": 18.45,
+        "humidity": 48.33,
+        "soil_moisture": 44.92
+    },
+    "2023-03-13 14:40:45": {
+        "temperature": 27.88,
+        "humidity": 58.8,
+        "soil_moisture": 35.51
+    },
+    "2023-03-13 15:10:45": {
+        "temperature": 24.75,
+        "humidity": 46.75,
+        "soil_moisture": 25.99
+    },
+    "2023-03-13 15:40:45": {
+        "temperature": 27.48,
+        "humidity": 43.1,
+        "soil_moisture": 24.99
+    },
+    "2023-03-13 16:10:45": {
+        "temperature": 24.19,
+        "humidity": 67.58,
+        "soil_moisture": 43.59
+    },
+    "2023-03-13 16:40:45": {
+        "temperature": 23.5,
+        "humidity": 44.41,
+        "soil_moisture": 33.26
+    },
+    "2023-03-13 17:10:45": {
+        "temperature": 18.42,
+        "humidity": 58.75,
+        "soil_moisture": 41.57
+    },
+    "2023-03-13 17:40:45": {
+        "temperature": 26.04,
+        "humidity": 54.71,
+        "soil_moisture": 31.58
+    },
+    "2023-03-13 18:10:45": {
+        "temperature": 25.41,
+        "humidity": 45.8,
+        "soil_moisture": 56.2
+    },
+    "2023-03-13 18:40:45": {
+        "temperature": 25.93,
+        "humidity": 55.84,
+        "soil_moisture": 44.65
+    },
+    "2023-03-13 19:10:45": {
+        "temperature": 27.93,
+        "humidity": 73.37,
+        "soil_moisture": 39.55
+    },
+    "2023-03-13 19:40:45": {
+        "temperature": 23.95,
+        "humidity": 54.2,
+        "soil_moisture": 24.4
+    },
+    "2023-03-13 20:10:45": {
+        "temperature": 18.52,
+        "humidity": 53.25,
+        "soil_moisture": 51.58
+    },
+    "2023-03-13 20:40:45": {
+        "temperature": 16.77,
+        "humidity": 54.39,
+        "soil_moisture": 49.99
+    },
+    "2023-03-13 21:10:45": {
+        "temperature": 16.86,
+        "humidity": 74.1,
+        "soil_moisture": 33.41
+    },
+    "2023-03-13 21:40:45": {
+        "temperature": 28.55,
+        "humidity": 56.1,
+        "soil_moisture": 23.13
+    },
+    "2023-03-13 22:10:45": {
+        "temperature": 16.09,
+        "humidity": 79.95,
+        "soil_moisture": 50.18
+    },
+    "2023-03-13 22:40:45": {
+        "temperature": 16.6,
+        "humidity": 76.18,
+        "soil_moisture": 31.07
+    },
+    "2023-03-13 23:10:45": {
+        "temperature": 27.19,
+        "humidity": 42.39,
+        "soil_moisture": 44.7
+    },
+    "2023-03-13 23:40:45": {
+        "temperature": 16.75,
+        "humidity": 75.12,
+        "soil_moisture": 26.49
+    },
+    "2023-03-14 00:10:45": {
+        "temperature": 16.09,
+        "humidity": 75.0,
+        "soil_moisture": 24.26
+    },
+    "2023-03-14 00:40:45": {
+        "temperature": 27.45,
+        "humidity": 64.99,
+        "soil_moisture": 48.46
+    },
+    "2023-03-14 01:10:45": {
+        "temperature": 19.87,
+        "humidity": 65.63,
+        "soil_moisture": 25.01
+    },
+    "2023-03-14 01:40:45": {
+        "temperature": 25.24,
+        "humidity": 66.01,
+        "soil_moisture": 37.84
+    },
+    "2023-03-14 02:10:45": {
+        "temperature": 22.02,
+        "humidity": 79.22,
+        "soil_moisture": 37.22
+    },
+    "2023-03-14 02:40:45": {
+        "temperature": 26.53,
+        "humidity": 54.13,
+        "soil_moisture": 23.02
+    },
+    "2023-03-14 03:10:45": {
+        "temperature": 26.59,
+        "humidity": 71.14,
+        "soil_moisture": 41.67
+    },
+    "2023-03-14 03:40:45": {
+        "temperature": 29.81,
+        "humidity": 46.71,
+        "soil_moisture": 31.45
+    },
+    "2023-03-14 04:10:45": {
+        "temperature": 25.74,
+        "humidity": 46.02,
+        "soil_moisture": 24.23
+    },
+    "2023-03-14 04:40:45": {
+        "temperature": 25.59,
+        "humidity": 76.08,
+        "soil_moisture": 54.23
+    },
+    "2023-03-14 05:10:45": {
+        "temperature": 20.92,
+        "humidity": 66.6,
+        "soil_moisture": 24.74
+    },
+    "2023-03-14 05:40:45": {
+        "temperature": 16.49,
+        "humidity": 54.61,
+        "soil_moisture": 28.1
+    },
+    "2023-03-14 06:10:45": {
+        "temperature": 25.79,
+        "humidity": 64.75,
+        "soil_moisture": 24.98
+    },
+    "2023-03-14 06:40:45": {
+        "temperature": 16.7,
+        "humidity": 79.17,
+        "soil_moisture": 49.14
+    },
+    "2023-03-14 07:10:45": {
+        "temperature": 23.64,
+        "humidity": 63.19,
+        "soil_moisture": 58.8
+    },
+    "2023-03-14 07:40:45": {
+        "temperature": 18.25,
+        "humidity": 40.07,
+        "soil_moisture": 32.74
+    },
+    "2023-03-14 08:10:45": {
+        "temperature": 15.53,
+        "humidity": 47.62,
+        "soil_moisture": 58.3
+    },
+    "2023-03-14 08:40:45": {
+        "temperature": 29.33,
+        "humidity": 52.15,
+        "soil_moisture": 58.41
+    },
+    "2023-03-14 09:10:45": {
+        "temperature": 19.9,
+        "humidity": 55.06,
+        "soil_moisture": 47.54
+    },
+    "2023-03-14 09:40:45": {
+        "temperature": 26.16,
+        "humidity": 73.48,
+        "soil_moisture": 55.31
+    },
+    "2023-03-14 10:10:45": {
+        "temperature": 15.31,
+        "humidity": 42.51,
+        "soil_moisture": 32.01
+    },
+    "2023-03-14 10:40:45": {
+        "temperature": 15.88,
+        "humidity": 55.74,
+        "soil_moisture": 23.99
+    },
+    "2023-03-14 11:10:45": {
+        "temperature": 29.46,
+        "humidity": 45.09,
+        "soil_moisture": 21.71
+    },
+    "2023-03-14 11:40:45": {
+        "temperature": 15.43,
+        "humidity": 51.1,
+        "soil_moisture": 52.33
+    },
+    "2023-03-14 12:10:45": {
+        "temperature": 26.1,
+        "humidity": 54.31,
+        "soil_moisture": 28.35
+    },
+    "2023-03-14 12:40:45": {
+        "temperature": 28.0,
+        "humidity": 76.18,
+        "soil_moisture": 47.85
+    },
+    "2023-03-14 13:10:45": {
+        "temperature": 27.03,
+        "humidity": 57.58,
+        "soil_moisture": 23.28
+    },
+    "2023-03-14 13:40:45": {
+        "temperature": 22.15,
+        "humidity": 77.51,
+        "soil_moisture": 44.91
+    },
+    "2023-03-14 14:10:45": {
+        "temperature": 20.97,
+        "humidity": 65.18,
+        "soil_moisture": 44.9
+    },
+    "2023-03-14 14:40:45": {
+        "temperature": 24.06,
+        "humidity": 47.78,
+        "soil_moisture": 53.87
+    },
+    "2023-03-14 15:10:45": {
+        "temperature": 18.85,
+        "humidity": 79.86,
+        "soil_moisture": 20.56
+    },
+    "2023-03-14 15:40:45": {
+        "temperature": 20.6,
+        "humidity": 67.45,
+        "soil_moisture": 31.84
+    },
+    "2023-03-14 16:10:45": {
+        "temperature": 17.01,
+        "humidity": 53.95,
+        "soil_moisture": 23.28
+    },
+    "2023-03-14 16:40:45": {
+        "temperature": 22.08,
+        "humidity": 62.18,
+        "soil_moisture": 36.11
+    },
+    "2023-03-14 17:10:45": {
+        "temperature": 20.75,
+        "humidity": 52.95,
+        "soil_moisture": 36.29
+    },
+    "2023-03-14 17:40:45": {
+        "temperature": 16.37,
+        "humidity": 43.44,
+        "soil_moisture": 25.32
+    },
+    "2023-03-14 18:10:45": {
+        "temperature": 19.55,
+        "humidity": 79.51,
+        "soil_moisture": 54.04
+    },
+    "2023-03-14 18:40:45": {
+        "temperature": 16.56,
+        "humidity": 74.87,
+        "soil_moisture": 54.77
+    },
+    "2023-03-14 19:10:45": {
+        "temperature": 19.02,
+        "humidity": 78.81,
+        "soil_moisture": 52.61
+    },
+    "2023-03-14 19:40:45": {
+        "temperature": 21.38,
+        "humidity": 45.3,
+        "soil_moisture": 35.24
+    },
+    "2023-03-14 20:10:45": {
+        "temperature": 21.08,
+        "humidity": 62.79,
+        "soil_moisture": 25.1
+    },
+    "2023-03-14 20:40:45": {
+        "temperature": 27.6,
+        "humidity": 77.29,
+        "soil_moisture": 27.75
+    },
+    "2023-03-14 21:10:45": {
+        "temperature": 27.21,
+        "humidity": 66.74,
+        "soil_moisture": 29.36
+    },
+    "2023-03-14 21:40:45": {
+        "temperature": 27.65,
+        "humidity": 59.04,
+        "soil_moisture": 29.32
+    },
+    "2023-03-14 22:10:45": {
+        "temperature": 17.47,
+        "humidity": 53.05,
+        "soil_moisture": 25.89
+    },
+    "2023-03-14 22:40:45": {
+        "temperature": 24.85,
+        "humidity": 58.2,
+        "soil_moisture": 53.39
+    },
+    "2023-03-14 23:10:45": {
+        "temperature": 18.86,
+        "humidity": 78.05,
+        "soil_moisture": 39.7
+    },
+    "2023-03-14 23:40:45": {
+        "temperature": 27.93,
+        "humidity": 45.91,
+        "soil_moisture": 43.74
+    },
+    "2023-03-15 00:10:45": {
+        "temperature": 29.42,
+        "humidity": 68.46,
+        "soil_moisture": 24.04
+    },
+    "2023-03-15 00:40:45": {
+        "temperature": 24.47,
+        "humidity": 50.96,
+        "soil_moisture": 31.55
+    },
+    "2023-03-15 01:10:45": {
+        "temperature": 20.9,
+        "humidity": 64.1,
+        "soil_moisture": 23.39
+    },
+    "2023-03-15 01:40:45": {
+        "temperature": 24.08,
+        "humidity": 52.38,
+        "soil_moisture": 31.42
+    },
+    "2023-03-15 02:10:45": {
+        "temperature": 16.42,
+        "humidity": 56.46,
+        "soil_moisture": 51.54
+    },
+    "2023-03-15 02:40:45": {
+        "temperature": 17.26,
+        "humidity": 74.91,
+        "soil_moisture": 59.83
+    },
+    "2023-03-15 03:10:45": {
+        "temperature": 23.01,
+        "humidity": 51.49,
+        "soil_moisture": 23.12
+    },
+    "2023-03-15 03:40:45": {
+        "temperature": 26.0,
+        "humidity": 54.06,
+        "soil_moisture": 22.89
+    },
+    "2023-03-15 04:10:45": {
+        "temperature": 19.87,
+        "humidity": 59.94,
+        "soil_moisture": 22.36
+    },
+    "2023-03-15 04:40:45": {
+        "temperature": 19.49,
+        "humidity": 55.52,
+        "soil_moisture": 37.17
+    },
+    "2023-03-15 05:10:45": {
+        "temperature": 16.29,
+        "humidity": 56.0,
+        "soil_moisture": 35.28
+    },
+    "2023-03-15 05:40:45": {
+        "temperature": 25.85,
+        "humidity": 63.88,
+        "soil_moisture": 57.07
+    },
+    "2023-03-15 06:10:45": {
+        "temperature": 22.03,
+        "humidity": 62.87,
+        "soil_moisture": 32.41
+    },
+    "2023-03-15 06:40:45": {
+        "temperature": 24.19,
+        "humidity": 69.66,
+        "soil_moisture": 25.91
+    },
+    "2023-03-15 07:10:45": {
+        "temperature": 15.41,
+        "humidity": 64.88,
+        "soil_moisture": 51.18
+    },
+    "2023-03-15 07:40:45": {
+        "temperature": 22.04,
+        "humidity": 51.11,
+        "soil_moisture": 55.14
+    },
+    "2023-03-15 08:10:45": {
+        "temperature": 18.16,
+        "humidity": 43.36,
+        "soil_moisture": 36.91
+    },
+    "2023-03-15 08:40:45": {
+        "temperature": 19.64,
+        "humidity": 41.6,
+        "soil_moisture": 28.99
+    },
+    "2023-03-15 09:10:45": {
+        "temperature": 15.66,
+        "humidity": 52.37,
+        "soil_moisture": 20.16
+    },
+    "2023-03-15 09:40:45": {
+        "temperature": 18.79,
+        "humidity": 49.92,
+        "soil_moisture": 46.6
+    },
+    "2023-03-15 10:10:45": {
+        "temperature": 24.87,
+        "humidity": 48.25,
+        "soil_moisture": 44.97
+    },
+    "2023-03-15 10:40:45": {
+        "temperature": 19.32,
+        "humidity": 63.22,
+        "soil_moisture": 37.94
+    },
+    "2023-03-15 11:10:45": {
+        "temperature": 15.11,
+        "humidity": 77.95,
+        "soil_moisture": 54.68
+    }
+}
