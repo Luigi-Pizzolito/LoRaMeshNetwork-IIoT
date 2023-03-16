@@ -1,18 +1,20 @@
 import random
 import datetime
 import json
+from random import randrange
 
 def generate_fake_data(start_date, end_date, time_interval, temp_range, humidity_range, soil_moisture_range):
-    data = {}
+    data = []
     current_date = start_date
     while current_date <= end_date:
         current_time = current_date.strftime("%Y-%m-%d %H:%M:%S")
+        id = randrange(4)
         temp = round(random.uniform(temp_range[0], temp_range[1]), 2)
         humidity = round(random.uniform(humidity_range[0], humidity_range[1]), 2)
         soil_moisture = round(random.uniform(soil_moisture_range[0], soil_moisture_range[1]), 2)
         
         # TODO: restructure this to meet the JSON structure defined in ../JSONformats/reply_format.json
-        data[current_time] = {'temperature': temp, 'humidity': humidity, 'soil_moisture': soil_moisture}
+        data.append({'id':id,'ts':current_time,'data':{'temperature': temp, 'humidity': humidity, 'soil_moisture': soil_moisture}})
         
         current_date += datetime.timedelta(minutes=time_interval)
     return data
