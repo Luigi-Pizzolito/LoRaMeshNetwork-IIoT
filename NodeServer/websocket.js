@@ -47,11 +47,12 @@ class WebSocketServer {
         // Listen for new incoming messages
         ws.on("message", (msg) => {
             console.log("["+ws._socket.remoteAddress.toString()+":"+ws._socket.remotePort.toString()+"]", "RECV Message:", msg.toString());
-            this.onMessage(msg);
+            // console.log(ws);
+            this.onMessage(ws, msg);
         });
     }
-    onMessage(msg) {
-        this.onMessageP(this, msg);
+    onMessage(ws, msg) {
+        this.onMessageP(this, ws, msg);
     }
 
     // Methods for sending messages
@@ -66,8 +67,8 @@ class WebSocketServer {
         });
         console.log("[unicast:"+this.wsServer.clients.size.toString()+"] SEND Message:", msg);
     }
-    replyMsg(msg) {
-        // implement method here to send a message to a specific client, the same one that sent the request (and only that one)
+    sendSingleMsg(ws, msg) {
+        ws.send(msg);
     }
 }
 
