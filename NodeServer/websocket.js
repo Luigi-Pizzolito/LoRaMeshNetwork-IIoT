@@ -24,13 +24,13 @@ class WebSocketServer {
         this.server = this.app.listen(this.port, this.host, this.serverStarted(this));
         this.server.on('upgrade', async function upgrade(request, socket, head) {
             // Handle HTTP->WebSocket upgrade
-            wsServer.handleUpgrade(request, socket, head, function done(ws) {
-                wsServer.emit('connection', ws, request);
+            wsServer.handleUpgrade(request, socket, head, function done(client) {
+                wsServer.emit('connection', client, request);
             });
         });
         // Start WebSocket Server
-        wsServer.on("connection", (ws) => {
-            this.onConnect(ws);
+        wsServer.on("connection", (client) => {
+            this.onConnect(client);
         });
         this.wsServer = wsServer;
     }
@@ -41,17 +41,18 @@ class WebSocketServer {
     }
 
     // Methods for handling websocket events
-    onConnect(ws) {
+    onConnect(client) {
         // When a new client connects
-        console.log("["+ws._socket.remoteAddress.toString()+":"+ws._socket.remotePort.toString()+"]", "NEW Client Connection");
+        console.log("["+client._socket.remoteAddress.toString()+":"+client._socket.remotePort.toString()+"]", "NEW Client Connection");
         // Listen for new incoming messages
-        ws.on("message", (msg) => {
-            console.log("["+ws._socket.remoteAddress.toString()+":"+ws._socket.remotePort.toString()+"]", "RECV Message:", msg.toString());
-            this.onMessage(msg);
+        client.on("message", (msg) => {
+            console.log("["+client._socket.remoteAddress.toString()+":"+client._socket.remotePort.toString()+"]", "RECV Message:", msg.toString());
+            // console.log(ws);
+            this.onMessage(client, msg);
         });
     }
-    onMessage(msg) {
-        this.onMessageP(this, msg);
+    onMessage(client, msg) {
+        this.onMessageP(this, client, msg);
     }
 
     // Methods for sending messages
@@ -66,8 +67,8 @@ class WebSocketServer {
         });
         console.log("[unicast:"+this.wsServer.clients.size.toString()+"] SEND Message:", msg);
     }
-    replyMsg(msg) {
-        // implement method here to send a message to a specific client, the same one that sent the request (and only that one)
+    sendSingleMsg(client, msg) {
+        client.send(msg);
     }
 }
 
