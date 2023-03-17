@@ -11,11 +11,11 @@ siteServer.start();
 
 // Start websocket server
 // sample onMessage() function
-function testEchoOnMessage(wsServer, ws, msg) {
+function testEchoOnMessage(wsServer, client, msg) {
     // when we recieve a message to the server
     // send the same message back to all clients
     // wsServer.sendUnicastMsg(msg.toString());
-    wsServer.sendSingleMsg(ws, msg.toString())
+    wsServer.sendSingleMsg(client, msg.toString())
 }
 // Start Websocket server
 let websockServer = new WebSocketServer("localhost", 9876, testEchoOnMessage);
