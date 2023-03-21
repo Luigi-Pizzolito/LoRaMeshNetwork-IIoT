@@ -40,8 +40,6 @@ String.prototype.toProperCase = function () {
 };
 
 
-
-
 function loadJSONtoGraph(graph, json, field) {
     // transform data
     let obj = JSON.parse(json);
@@ -71,6 +69,7 @@ function loadJSONtoGraph(graph, json, field) {
 
 
 let fields = ["temperature", "humidity", "soil_moisture"]
+
 function addGraphs(fields, jsondata) {
     let container = document.getElementById("lineGraphContainer")
     fields.forEach(field => {
@@ -87,8 +86,7 @@ function addGraphs(fields, jsondata) {
     })
 }
 
-
-
+ 
 
 setTimeout(() => {
     let graph = document.getElementById('lineGraphContainer');

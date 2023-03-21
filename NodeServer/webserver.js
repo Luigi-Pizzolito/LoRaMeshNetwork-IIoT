@@ -28,4 +28,4 @@ class StaticWebServer {
 
 module.exports = {
     StaticWebServer: StaticWebServer
-};
+}; 
