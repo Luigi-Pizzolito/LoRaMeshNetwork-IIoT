@@ -1,5 +1,6 @@
 import random
 import datetime
+import time
 import json
 from random import randrange
 
@@ -7,7 +8,7 @@ def generate_fake_data(start_date, end_date, time_interval, temp_range, humidity
     data = []
     current_date = start_date
     while current_date <= end_date:
-        current_time = current_date.strftime("%Y-%m-%d %H:%M:%S")
+        current_time = time.mktime(current_date.timetuple())
         id = randrange(4)
         temp = round(random.uniform(temp_range[0], temp_range[1]), 2)
         humidity = round(random.uniform(humidity_range[0], humidity_range[1]), 2)

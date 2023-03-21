@@ -3,20 +3,30 @@ const sws = require('./webserver.js');
 let StaticWebServer = sws.StaticWebServer;
 const wss = require('./websocket.js');
 let WebSocketServer = wss.WebSocketServer;
+
 //todo: add a logging module for better log output and logging levels.
+
 
 // Start website server
 let siteServer = new StaticWebServer("localhost", 8000, "public");
 siteServer.start();
 
 // Start websocket server
-// sample onMessage() function
-function testEchoOnMessage(wsServer, client, msg) {
-    // when we recieve a message to the server
-    // send the same message back to all clients
-    // wsServer.sendUnicastMsg(msg.toString());
-    wsServer.sendSingleMsg(client, msg.toString())
+function replyToClient(wsServer, client, msg) {
+    // Example barebones request
+    //'{"time_range":[1679201350,1679403456]}'
+    // query DB
+    wsServer.db.requestQuery(msg.toString(), function(err, response) {
+        if (err == null) {
+            // send results back to client
+            wsServer.sendSingleMsg(client, JSON.stringify(response));
+        } else {
+            // send error back to client
+            wsServer.sendSingleMsg(client, '{"error": "'+err.toString()+'"}');
+        }
+    });
 }
+
 // Start Websocket server
-let websockServer = new WebSocketServer("localhost", 9876, testEchoOnMessage);
+let websockServer = new WebSocketServer("localhost", 9876, replyToClient);
 websockServer.start();
