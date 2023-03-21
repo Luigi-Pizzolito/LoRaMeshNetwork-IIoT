@@ -2,6 +2,11 @@ const WebSocket = require("ws");
 const express = require('express');
 const path = require("path");
 
+// DB Stuff
+const DBb = require('./DBbridge.js');
+let DBBridge = DBb.DBBridge;
+
+
 // Class for imnplementing WebSocket Server
 class WebSocketServer {
     // Constructor to start server
@@ -13,6 +18,8 @@ class WebSocketServer {
         // Initialise server variables
         this.app = express();
         this.app.use("/",express.static(path.resolve(__dirname, "../client")));
+        // init DB
+        this.db = new DBBridge('database.nosql');
     }
 
     // Method to start server

@@ -25,6 +25,7 @@
   "homepage": "https://github.com/Luigi-Pizzolito/LoraMeshNetwork-IIoT#readme",
   "dependencies": {
     "express": "^4.18.2",
+    "nosql": "^6.1.0",
     "websockets": "^0.2.0",
     "ws": "^8.13.0"
   }
