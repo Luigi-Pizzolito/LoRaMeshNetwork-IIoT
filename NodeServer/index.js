@@ -3,8 +3,7 @@ const sws = require('./webserver.js');
 let StaticWebServer = sws.StaticWebServer;
 const wss = require('./websocket.js');
 let WebSocketServer = wss.WebSocketServer;
-const fms = require('./formserver.js');
-let FormServer = fms.FormServer;
+
 //todo: add a logging module for better log output and logging levels.
 
 
@@ -31,7 +30,3 @@ function replyToClient(wsServer, client, msg) {
 // Start Websocket server
 let websockServer = new WebSocketServer("localhost", 9876, replyToClient);
 websockServer.start();
-
-//Start Form server
-let formserver = new FormServer("localhost", 8003, websockServer.db);
-formserver.start();

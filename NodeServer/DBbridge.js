@@ -43,7 +43,7 @@ class DBBridge {
 
     // Method for adding DB entries
     addEntry(entry) {
-        this.db.insert(entry,true);
+        this.db.insert(entry);
     }
 };
 
