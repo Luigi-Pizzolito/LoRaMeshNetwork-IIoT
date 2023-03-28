@@ -93,6 +93,7 @@ function addGraphs(fields) {
         graphQueue.push({graphDiv:graphDiv, field:field, container:container})
         // fetch data 
         fetch(1679201350,1679403456)
+        
     })
 }
 
@@ -100,4 +101,8 @@ function addGraphs(fields) {
 
 setTimeout(() => {
     addGraphs(fields);
-}, 2000);
+}, 10);
+
+setInterval(() => {
+location.reload()
+}, 10000);
