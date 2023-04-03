@@ -15,7 +15,7 @@ siteServer.start();
 // Start websocket server
 function replyToClient(wsServer, client, msg) {
     // Example barebones request
-    //'{"time_range":[1679201350,1679403456]}'
+    //'{"time_range":[1679201350,1679403456],"id":0}'
     // query DB
     wsServer.db.requestQuery(msg.toString(), function(err, response) {
         if (err == null) {
