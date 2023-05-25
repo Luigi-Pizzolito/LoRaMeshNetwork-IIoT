@@ -55,24 +55,52 @@ function receiveMsg(data) {
     table+="</tr>"
     table+="</table>"
 
-    // document.write(table)
+    var y0 = pdata["temperature"];
+    var y1 = pdata["humidity"];
+    var y2 = pdata["soil_moisture"];
+    var trace0 = {
+        y: y0,
+        type: 'box',
+        name: "Temperature"
+    };
+    var trace1 = {
+        y: y1,
+        type: 'box',
+        name: "Humidity"
+    };
+    var trace2 = {
+        y: y2,
+        type: 'box',
+        name: "Soil Moisture"
+    };
+    data = [trace0, trace1, trace2];
+    Plotly.newPlot('myDiv', data);
+
+////////////////////////////////
+    //fields.forEach(field => {
+        // let graphDiv = document.createElement('div');
+        // y0= pdata["humidity"];
+        // console.log(y0)
+        // var data = [{
+        //     y: y0,
+        //     type: 'box'
+        // }];
+
+        // var layout = {
+        //     //name: JSON.stringify(pdata.field)
+        // };
+        // Plotly.newPlot(graphDiv, data, layout);
+    //});
+///////////////////////////////
+
 
     function createElementFromHTML(htmlString) {
         var div = document.createElement('div');
         div.innerHTML = htmlString.trim();
-      
         // Change this to div.childNodes to support multiple top-level nodes.
         return div.firstChild;
       }
-    document.body.appendChild(createElementFromHTML(table));
-
-    
-    
-    
-    
-
-
-
+    document.body.appendChild(createElementFromHTML(table)); 
 }
 
 setTimeout(() => {
